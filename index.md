@@ -1,3 +1,3 @@
 # StudpidSoft
 ## A business that makes shower thought software
-[PopCat Camera](./popcat%20camera)
+<a href="./popcat%20camera">PopCat Camera</a>
